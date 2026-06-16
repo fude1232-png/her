@@ -19,4 +19,5 @@ AI 小说工坊运行示例：
 发布、浏览和安装社区应用，详情页保留评分、价格、截图和说明
 <img src="https://aibox.asia/assets/showcase/app-market.jpg" alt="示例" width="500">
 <img src="https://aibox.asia/assets/showcase/app-detail-gitdock.jpg" alt="示例" width="500">
-
+官方qq群：798147701
+官网：https://aibox.asia/
